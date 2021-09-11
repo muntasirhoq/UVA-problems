@@ -1,3 +1,3 @@
 # UVA-problems  
-All UVA problems solutions done by me.   
+All UVA problems solved by me.   
 https://onlinejudge.org/
